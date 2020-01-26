@@ -1,2 +1,2 @@
-# ecayazzo
-[Link](https://eussora.github.io/ecayazzo/)
+# cayazzo
+[Link](https://eussora.github.io/cayazzo/)
